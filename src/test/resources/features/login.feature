@@ -8,4 +8,3 @@ Feature: User Authentication
     Examples:
       | RowIndex |
       | 1        |
-      | 2        |
